@@ -1,7 +1,6 @@
 #ライブラリのインポート
 from pandas_datareader.stooq import StooqDailyReader
 from datetime import datetime,date,timedelta
-import matplotlib.pyplot as plt
 import streamlit as st
 from pyecharts import options as opts
 from pyecharts.charts import Kline,Line, Bar, Grid, Scatter
