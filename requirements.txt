@@ -2,3 +2,4 @@ pyecharts
 pandas
 streamlit 
 numpy
+pandas_datareader
